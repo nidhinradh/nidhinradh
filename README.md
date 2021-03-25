@@ -14,6 +14,8 @@ I am a **Software Engineer** based in **Kochi, India** with a demonstrated histo
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -21,7 +23,6 @@ I am a **Software Engineer** based in **Kochi, India** with a demonstrated histo
 ![Logstash](https://img.shields.io/badge/-Logstash-black?logo=logstash&style=social)&nbsp;&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-black?logo=kibana&style=social)&nbsp;&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
@@ -30,6 +31,7 @@ I am a **Software Engineer** based in **Kochi, India** with a demonstrated histo
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?logo=bitbucket&style=social)&nbsp;&nbsp;
 ![Splunk](https://img.shields.io/badge/-Splunk-black?logo=splunk&style=social)&nbsp;&nbsp;
 ![Graylog](https://img.shields.io/badge/-Graylog-black?logo=graylog&style=social)&nbsp;&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
