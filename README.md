@@ -1,6 +1,6 @@
 <h1 align="center">🤠 Howdy! I'm <a href="https://nidhinradh.me">Nidhin Radh</a></h1>
 
-<p align="center">#### 📬 Find me at</p>
+#### 📬 Find me at
 [![Website Badge](http://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox&link=https://nidhinradh.me/)](https://nidhinradh.me/) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/nidhinradh/)](https://github.com/nidhinradh/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhinradh/)](https://www.linkedin.com/in/nidhinradh)
