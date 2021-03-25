@@ -1,5 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Bonjour!, I am <a href="https://nidhinradh.me">Nidhin</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
+<h1 align="center">🤠 Howdy! I'm Nidhin Radh</h1>
 
 #### 📬 Find me at
 [![Website Badge](http://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox&link=https://nidhinradh.me/)](https://nidhinradh.me/) 
