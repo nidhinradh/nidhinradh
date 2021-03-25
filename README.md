@@ -7,7 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhinradh/)](https://www.linkedin.com/in/nidhinradh)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@nidhinradh.me)](mailto:hello@nidhinradh.me)
 
-I am a **Software Engineer** based in **Kochi, India** with a demonstrated history of working in the information technology and services industry.
+A **Software Engineer** based in **Kochi, India** with a demonstrated history of working in the information technology and services industry.
+Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticsearch, Spring Boot, Docker, Kubernetes, Terraform and AWS. Strong engineering professional with a Master of Computer Applications (MCA) focused in Computer Programming from Cochin University of Science and Technology.
 
 **Languages and Tools:** 
 
