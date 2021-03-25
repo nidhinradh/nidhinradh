@@ -41,7 +41,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticse
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 
 
-![Nidhin's Github Stats](https://github-readme-stats.vercel.app/api?username=nidhinradh&count_private=true&show_icons=true&include_all_commits=true)
+![Nidhin's Github Stats](https://github-readme-stats.vercel.app/api?username=nidhinradh&count_private=true&show_icons=true&include_all_commits=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinradh&hide=TeX&layout=compact)
 
 <!---
