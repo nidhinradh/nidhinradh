@@ -2,7 +2,7 @@
 
 #### 📬 Find me at
 [![Website Badge](http://img.shields.io/badge/-Website-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nidhinradh.me/)](https://nidhinradh.me/) 
-[![Instagram](http://img.shields.io/badge/-instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/nidhinradh/)](https://instagram.com/nidhinradh/) 
+[![Instagram](http://img.shields.io/badge/-instagram-blue?style=flat-square&logo=Instagram&logoColor=pink&link=https://instagram.com/nidhinradh/)](https://instagram.com/nidhinradh/) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/nidhinradh/)](https://github.com/nidhinradh/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidhinradh/)](https://www.linkedin.com/in/nidhinradh)
 [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@nidhinradh.me)](mailto:hello@nidhinradh.me)
