@@ -19,6 +19,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticse
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
+![Helm](https://img.shields.io/badge/-Helm-black?logo=helm&style=social)&nbsp;&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -39,6 +40,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticse
 ![Graylog](https://img.shields.io/badge/-Graylog-black?logo=graylog&style=social)&nbsp;&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
 
 
 <p align="center">
