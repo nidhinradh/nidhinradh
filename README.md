@@ -7,6 +7,8 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/nidhinradh/)](https://github.com/nidhinradh/) 
 [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@nidhinradh.me)](mailto:hello@nidhinradh.me)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2781F4?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nidhinradh/)](https://www.linkedin.com/in/nidhinradh/)
+#### Or
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-f75276?style=flat-square&logo=BuyMeACoffee&logoColor=white&link=https://www.buymeacoffee.com/nidhinradh/)](https://www.buymeacoffee.com/nidhinradh/)
 
 A **Software Engineer** based in **Kochi, India** with a demonstrated history of working in the information technology and services industry.
 Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticsearch, Spring Boot, Docker, Kubernetes, Terraform and AWS. Strong engineering professional with a Master of Computer Applications (MCA) focused in Computer Programming from Cochin University of Science and Technology.
