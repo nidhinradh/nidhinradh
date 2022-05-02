@@ -49,7 +49,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoD
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&style=social)&nbsp;&nbsp;
 ![Next JS](https://img.shields.io/badge/-Next-black?logo=next.js&style=social)&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&style=social)&nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/-express.js-%23404d59.svg?logo=express.js&style=social)&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-%23404d59.svg?logo=express&style=social)&nbsp;&nbsp;
 
 <p align="center">
   <a href="https://github.com/AVS1508">
