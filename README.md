@@ -19,6 +19,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoD
 ![Azure](https://img.shields.io/badge/-azure-%230072C6.svg?logo=microsoftazure&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=terraform&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
@@ -32,6 +33,8 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoD
 ![Kibana](https://img.shields.io/badge/-Kibana-black?logo=kibana&style=social)&nbsp;&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&style=social)&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-%23404d59.svg?logo=express&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
@@ -48,10 +51,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoD
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-black?logo=keras&style=social)&nbsp;&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?logo=pytorch&style=social)&nbsp;&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&style=social)&nbsp;&nbsp;
 ![Next JS](https://img.shields.io/badge/-Next-black?logo=next.js&style=social)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&style=social)&nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-%23404d59.svg?logo=express&style=social)&nbsp;&nbsp;
 
 <p align="center">
   <a href="https://github.com/AVS1508">
