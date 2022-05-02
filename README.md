@@ -47,7 +47,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticse
 ![Keras](https://img.shields.io/badge/-Keras-black?logo=keras&style=social)&nbsp;&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-black?logo=pytorch&style=social)&nbsp;&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&style=social)&nbsp;&nbsp;
-![Next JS](https://img.shields.io/badge/-Next JS-black?logo=next.js&style=social)&nbsp;&nbsp;
+![Next JS](https://img.shields.io/badge/-Next-JS-black?logo=next.js&style=social)&nbsp;&nbsp;
 
 <p align="center">
   <a href="https://github.com/AVS1508">
