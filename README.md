@@ -15,7 +15,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoD
 
 **Languages and Tools:** 
 
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900.svg?logo=aws&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900.svg?logo=amazon-aws&style=social)&nbsp;&nbsp;
 ![Azure](https://img.shields.io/badge/-azure-%230072C6.svg?logo=microsoftazure&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
