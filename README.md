@@ -11,7 +11,7 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-f75276?style=flat-square&logo=BuyMeACoffee&logoColor=white&link=https://www.buymeacoffee.com/nidhinradh/)](https://www.buymeacoffee.com/nidhinradh/)
 
 A **Software Engineer** based in **Kochi, India** with a demonstrated history of working in the information technology and services industry.
-Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoDB, Elasticsearch, Spring Boot, Docker, Kubernetes, Terraform and AWS. Strong engineering professional with a Master of Computer Applications (MCA) focused in Computer Programming from Cochin University of Science and Technology.
+Skilled in Artificial Intelligence, Python, Java, JavaScript, TypeScript, MongoDB, Elasticsearch, Spring Boot, Docker, Kubernetes, Terraform, AWS and Azure. Strong engineering professional with a Master of Computer Applications (MCA) focused in Computer Programming from Cochin University of Science and Technology.
 
 **Languages and Tools:** 
 
