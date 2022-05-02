@@ -28,7 +28,7 @@ Skilled in Artificial Intelligence, Python, Java, JavaScript, MongoDB, Elasticse
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
 ![Logstash](https://img.shields.io/badge/-Logstash-black?logo=logstash&style=social)&nbsp;&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-black?logo=kibana&style=social)&nbsp;&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apache&style=social)&nbsp;&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka&style=social)&nbsp;&nbsp;
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
