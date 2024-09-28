@@ -10,8 +10,7 @@
 #### Or
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-f75276?style=flat-square&logo=BuyMeACoffee&logoColor=white&link=https://www.buymeacoffee.com/nidhinradh/)](https://www.buymeacoffee.com/nidhinradh/)
 
-
-I’m a software engineer with over 6 years of experience, progressing from an Associate Engineer Trainee to a Dev Lead in a short span of time. My expertise spans full-stack development, microservices, DevOps, and cloud infrastructure, with hands-on experience in technologies like Java, Python, javascript, Ruby on Rails, React.js, and Vue.js.
+I’m a software engineer with around 6 years of experience, progressing from an Associate Engineer Trainee to a Dev Lead in a short span of time. My expertise spans full-stack development, microservices, DevOps, and cloud infrastructure, with hands-on experience in technologies like Java, Python, javascript, Ruby on Rails, React.js, and Vue.js.
 
 Throughout my career at Litmus7, I’ve led and contributed to various complex projects, including building scalable microservices, designing robust cloud architectures on AWS and Azure, and implementing machine learning workflows. I’m also deeply familiar with managing legacy codebases and optimizing them for better performance and scalability.
 
